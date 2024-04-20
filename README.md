@@ -11,6 +11,7 @@
 
 ## My Projects
 Dispoportal.com, a extremely powerful foreclosre real estate CRM.
+
 roofix.io, another great solution to evaluate the condition of a roof remotely and honestly!
 
 ## Technologies I Use
