@@ -19,10 +19,11 @@ roofix.io, another great solution to evaluate the condition of a roof remotely a
 - **Tools:** Supabase, GitHub, etc.
 
 ## Let's Connect!
-- **LinkedIn:** [[My LinkedIn](https://www.linkedin.com/in/CodeConstructPro/)](#)
-- **X Platform:** [[My X Profile](https://twitter.com/brad91616/)](#)
-- **Email:** [brad@codeconstruct.pro](mailto:your.brad@codeconstruct.pro)
+- **LinkedIn:** [[Visit My LinkedIn](https://www.linkedin.com/in/CodeConstructPro/)](#)
+- **X Platform:** [[Visit My X Profile](https://twitter.com/brad91616/)](#)
+- **Email:** [reach me @ brad@codeconstruct.pro](mailto:your.brad@codeconstruct.pro)
 
 Feel free to reach out to discuss technology, projects, collaboration opportunities, or anything in between!
+
 "The important thing is not to stop questioning. Curiosity has its own reason for existing.”
 - Albert Einstein
