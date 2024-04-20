@@ -20,8 +20,8 @@ roofix.io, another great solution to evaluate the condition of a roof remotely a
 
 ## Let's Connect!
 - **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/CodeConstructPro/)](#)
-- **X Platform:** [X](#https://twitter.com/brad91616)(#)
-- **Email:** [your.email@example.com](mailto:your.brad@codeconstruct.pro)
+- **X Platform:** [X platform](#https://twitter.com/brad91616)
+- **Email:** [brad@codeconstruct.pro](mailto:your.brad@codeconstruct.pro)
 
 Feel free to reach out to discuss technology, projects, collaboration opportunities, or anything in between!
 "The important thing is not to stop questioning. Curiosity has its own reason for existing.”
